@@ -5,3 +5,6 @@ Repo for the conference paper: "The Distribution Coverage Loss: A customizable-d
 Install the required packages in the requirements.txt file and then you can run the notebooks. 
 
 When trying out different distributions, you can specify it in the "distr" parameter in the code. 
+
+
+This code i sunder the IMEC license. 
